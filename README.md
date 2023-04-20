@@ -5,6 +5,7 @@ My name is Rodrigo Véliz, I'm from Peru
 * Student at Universidad Nacional de San Agustin, Arequipa, Peru
 * Volunteer for Django Girls Workshop in Arequipa 2023
 * Web layout and beginner web developer 🔥
+
 Here you can find some of my personal and professional projects. I'm passionate about programming and love exploring new technologies and tools.
 
 ## Skills
