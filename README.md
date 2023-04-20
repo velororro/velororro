@@ -1,7 +1,8 @@
 # Hello ✋😄
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=19&duration=4992&pause=1000&color=14DF0A&width=500&lines=How+big+would+you+dream%2C+if+you+knew+you+couldn't+fail%3F)](https://git.io/typing-svg)
 Welcome to my GitHub!
-My name is Rodrigo Véliz, I'm from Peru
+My name is Rodrigo Véliz
+I'm from Peru
 * Student at Universidad Nacional de San Agustin, Arequipa, Peru
 * Volunteer for Django Girls Workshop in Arequipa 2023
 * Web layout and beginner web developer 🔥
