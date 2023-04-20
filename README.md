@@ -1,9 +1,6 @@
-# Hello ✋😄
+<h1 align="center">Hi 👋, I'm Rodrigo Alejandro Véliz Saihua</h1>
+<h3 align="center">A passionate student of UNSA, Arequipa, Peru</h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=19&duration=4992&pause=1000&color=14DF0A&width=500&lines=How+big+would+you+dream%2C+if+you+knew+you+couldn't+fail%3F" alt="Typing SVG" /></a>
-
-Welcome to my GitHub!
-My name is Rodrigo Véliz
-I'm from Peru
 * Student at Universidad Nacional de San Agustin, Arequipa, Peru
 * Volunteer for Django Girls Workshop in Arequipa 2023
 * Web layout and beginner web developer 🔥
