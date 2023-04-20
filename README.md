@@ -10,9 +10,3 @@
 Here are some of my most prominent projects:
 
 - [AEDA Academia](link to project on GitHub): Collaborative project for a Coaching Academy (2023)
-
-## Contact
-
-If you'd like to get in touch with me to discuss a project or just to chat, feel free to reach out to me at [rod24ale@gmail.com] or follow me on [Facebook-Messenger].
-
-Thanks for visiting my GitHub!
