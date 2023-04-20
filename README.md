@@ -1,5 +1,6 @@
 # Hello ✋😄
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=19&duration=4992&pause=1000&color=14DF0A&width=500&lines=How+big+would+you+dream%2C+if+you+knew+you+couldn't+fail%3F" alt="Typing SVG" /></a>
+
 Welcome to my GitHub!
 My name is Rodrigo Véliz
 I'm from Peru
