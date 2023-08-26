@@ -9,4 +9,4 @@
 
 Here are some of my most prominent projects:
 
-- [AEDA Academia](link to project on GitHub): Collaborative project for a Coaching Academy (2023)
+- [AEDA Academia](https://oratoriaaeda.com/): Collaborative project for a Coaching Academy (2023)
